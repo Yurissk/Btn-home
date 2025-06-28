@@ -45,6 +45,9 @@
     font-size: 10px;
 }
 
+.btn:active {
+    transform: translate(2px ,2px);
+}
 
 .btn:hover {
     width: 120px;
